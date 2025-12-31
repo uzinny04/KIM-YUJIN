@@ -56,11 +56,14 @@
 
 | 구분 | 내용 | 숙련도 |
 |------|------|--------|
-| **회로 설계 및 해석** | Multisim, LTspice | 중급 |
-| **데이터 처리 및 분석** | MATLAB, Python (NumPy, Pandas, Matplotlib) | 숙련 |
-| **임베디드 시스템 제어** | Arduino, 센서 인터페이싱 | 중급 |
-| **시뮬레이션 및 설계** | COMSOL Multiphysics (학습 중) | 초급 |
+| **회로 설계 및 해석** | Multisim | 중급 |
+| **데이터 처리 및 분석** | MATLAB | 고급 |
+|  | Python (NumPy, Pandas, Matplotlib) | 초급 |
+| **임베디드 시스템 제어** | Arduino | 고급 |
+| **시뮬레이션 및 설계** | COMSOL Multiphysics | 중급 |
+|                      | Origin, Biorender | 고급
 | **문서화 및 협업** | Git, Markdown, Notion, LaTeX | 중급 |
+
 
 ---
 
