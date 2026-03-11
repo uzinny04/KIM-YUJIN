@@ -8,29 +8,9 @@
 <h2>기술 스택</h2>
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/CI/CD-00A3E0?style=flat-square&logo=ci&logoColor=white"/>&nbsp
 </p>
 
-<h2>프로젝트</h2>
-<ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
-</ul>
-
-<p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
-</p>
-
-                     # 👩‍🔬 Kim YuJin | Electrical & Bio Convergence Researcher
+# 👩‍🔬 Kim YuJin | Electrical & Bio Convergence Researcher
 
 > **전기적 접근으로 생명현상을 정량화하는 융합형 연구자**  
 > 전기공학적 설계 능력과 생체신호 해석 역량을 바탕으로  
