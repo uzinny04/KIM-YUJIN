@@ -9,7 +9,7 @@
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
 </p>
-
+  
 # 👩‍🔬 Kim YuJin | Electrical & Bio Convergence Researcher
 
 > **전기적 접근으로 생명현상을 정량화하는 융합형 연구자**  
