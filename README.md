@@ -74,6 +74,7 @@
 | **임베디드 시스템 제어** | Arduino | 고급 |
 | **시뮬레이션 및 설계** | COMSOL Multiphysics | 중급 |
 |                      | Origin, Biorender | 고급
+|                      | AutoCAD | 중급
 | **문서화 및 협업** | Git, Markdown, Notion, LaTeX | 중급 |
 
 
