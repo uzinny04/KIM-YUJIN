@@ -1,18 +1,5 @@
-<h1>안녕하세요, 웹 개발자입니다!</h1>
-<p>
-    7년간 웹 개발 분야에서 경험을 쌓으며, 고품질의 웹사이트와 애플리케이션을 제작해 왔습니다. 
-    깔끔하고 효율적인 코드를 작성하는 것을 좋아하며, 프로젝트와 블로그, 코딩 챌린지를 통해 
-    꾸준히 성장하고 있습니다.
-</p>
-
-<h2>기술 스택</h2>
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
-</p>
+# 👩‍🔬 Kim YuJin | Electrical Engineering
   
-# 👩‍🔬 Kim YuJin | Electrical & Bio Convergence Researcher
-
-> **전기적 접근으로 생명현상을 정량화하는 융합형 연구자**  
 > 전기공학적 설계 능력과 생체신호 해석 역량을 바탕으로  
 > 임피던스 기반 바이오센서 및 무전원 진단 시스템 연구를 수행합니다.
 
