@@ -57,7 +57,7 @@
 |------|------|--------|
 | **회로 설계 및 해석** | Multisim | 중급 |
 | **데이터 처리 및 분석** | MATLAB | 고급 |
-|  | Python (NumPy, Pandas, Matplotlib) | 초급 |
+|  | Python (NumPy, Pandas, Matplotlib) | 중급 |
 | **임베디드 시스템 제어** | Arduino | 고급 |
 | **시뮬레이션 및 설계** | COMSOL Multiphysics | 중급 |
 |                      | Origin, Biorender | 고급
